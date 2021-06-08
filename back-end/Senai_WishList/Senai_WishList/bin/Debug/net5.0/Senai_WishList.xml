@@ -1,0 +1,97 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Senai_WishList</name>
+    </assembly>
+    <members>
+        <member name="M:Senai_WishList.Contexts.DesejosController.Get">
+            <summary>
+            Lista todos os desejos
+            </summary>
+            <returns>Status Code OK e uma lista de desejos</returns>
+        </member>
+        <member name="M:Senai_WishList.Contexts.DesejosController.GetByIdUser(System.Int32)">
+            <summary>
+            Lista com os desejos de um usuario
+            </summary>
+            <param name="id">id usuario</param>
+            <returns>Uma lista de desejos</returns>
+        </member>
+        <member name="M:Senai_WishList.Contexts.DesejosController.Post(Senai_WishList.Domains.Desejo)">
+            <summary>
+            Cadastra um desejo
+            </summary>
+            <param name="novoDesejo">Objeto novoDesejo que será cadastrado</param>
+            <returns>Status Code 201</returns>
+        </member>
+        <member name="M:Senai_WishList.Contexts.DesejosController.Delete(System.Int32)">
+            <summary>
+            Deleta um desejo
+            </summary>
+            <param name="id">id do desejo</param>
+            <returns>Status Code 201</returns>
+        </member>
+        <member name="M:Senai_WishList.Controllers.LoginController.Post(Senai_WishList.ViewModels.LoginViewModel)">
+            <summary>
+            Valida o usuário
+            </summary>
+            <param name="login">Objeto login que contém o e-mail e a senha do usuário</param>
+            <returns>Retorna o id do usuário</returns>
+        </member>
+        <member name="M:Senai_WishList.Interfaces.IDesejoRepository.Listar">
+            <summary>
+            Lista todos os desejos
+            </summary>
+            <returns>Uma Lista de desejos</returns>
+        </member>
+        <member name="M:Senai_WishList.Interfaces.IDesejoRepository.BuscarPorIdUsuario(System.Int32)">
+            <summary>
+            Lista todos os desejos de um usuario
+            </summary>
+            <param name="id">Id Usuario</param>
+            <returns>Uma Lista de desejos</returns>
+        </member>
+        <member name="M:Senai_WishList.Interfaces.IDesejoRepository.Cadastrar(Senai_WishList.Domains.Desejo)">
+            <summary>
+            Cadastra um desejo
+            </summary>
+            <param name="novoDesejo"></param>
+        </member>
+        <member name="M:Senai_WishList.Interfaces.IDesejoRepository.Deletar(System.Int32)">
+            <summary>
+            Exclui o desejo
+            </summary>
+            <param name="id"></param>
+        </member>
+        <member name="M:Senai_WishList.Repositories.DesejoRepository.BuscarPorIdUsuario(System.Int32)">
+            <summary>
+            Busca pelo id o usuario que fez o desejo
+            </summary>
+            <param name="id"></param>
+            <returns>Uma lista de desejos é retornada</returns>
+        </member>
+        <member name="M:Senai_WishList.Repositories.DesejoRepository.Cadastrar(Senai_WishList.Domains.Desejo)">
+            <summary>
+            Cadastra um desejo
+            </summary>
+            <param name="novoDesejo">Desejo que deseja cadastrar</param>
+        </member>
+        <member name="M:Senai_WishList.Repositories.DesejoRepository.Deletar(System.Int32)">
+            <summary>
+            Deleta um desejo
+            </summary>
+            <param name="id">id do desejo que deseja deletar</param>
+        </member>
+        <member name="M:Senai_WishList.Repositories.DesejoRepository.Listar">
+            <summary>
+            Lista todos os desejos
+            </summary>
+            <returns>Uma lista de desejos é retornada</returns>
+        </member>
+        <member name="T:Senai_WishList.ViewModels.LoginViewModel">
+            <summary>
+            Classe responsável pelo modelo de Login
+            </summary>
+        </member>
+    </members>
+</doc>

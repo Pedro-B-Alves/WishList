@@ -1,0 +1,197 @@
+C:\Users\pedro\OneDrive\Área de Trabalho\Banco de Dados\wishlist\Back-End\Senai_WishList\Senai_WishList\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\pedro\OneDrive\Área de Trabalho\Banco de Dados\wishlist\Back-End\Senai_WishList\Senai_WishList\bin\Debug\net5.0\appsettings.json
+C:\Users\pedro\OneDrive\Área de Trabalho\Banco de Dados\wishlist\Back-End\Senai_WishList\Senai_WishList\bin\Debug\net5.0\Senai_WishList.exe
+C:\Users\pedro\OneDrive\Área de Trabalho\Banco de Dados\wishlist\Back-End\Senai_WishList\Senai_WishList\bin\Debug\net5.0\Senai_WishList.deps.json
+C:\Users\pedro\OneDrive\Área de Trabalho\Banco de Dados\wishlist\Back-End\Senai_WishList\Senai_WishList\bin\Debug\net5.0\Senai_WishList.runtimeconfig.json
+C:\Users\pedro\OneDrive\Área de Trabalho\Banco de Dados\wishlist\Back-End\Senai_WishList\Senai_WishList\bin\Debug\net5.0\Senai_WishList.runtimeconfig.dev.json
+C:\Users\pedro\OneDrive\Área de Trabalho\Banco de Dados\wishlist\Back-End\Senai_WishList\Senai_WishList\bin\Debug\net5.0\Senai_WishList.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\Banco de Dados\wishlist\Back-End\Senai_WishList\Senai_WishList\bin\Debug\net5.0\ref\Senai_WishList.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\Banco de Dados\wishlist\Back-End\Senai_WishList\Senai_WishList\bin\Debug\net5.0\Senai_WishList.pdb
+C:\Users\pedro\OneDrive\Área de Trabalho\Banco de Dados\wishlist\Back-End\Senai_WishList\Senai_WishList\bin\Debug\net5.0\Humanizer.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\Banco de Dados\wishlist\Back-End\Senai_WishList\Senai_WishList\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\Banco de Dados\wishlist\Back-End\Senai_WishList\Senai_WishList\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\Banco de Dados\wishlist\Back-End\Senai_WishList\Senai_WishList\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\Banco de Dados\wishlist\Back-End\Senai_WishList\Senai_WishList\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\Banco de Dados\wishlist\Back-End\Senai_WishList\Senai_WishList\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\Banco de Dados\wishlist\Back-End\Senai_WishList\Senai_WishList\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\Banco de Dados\wishlist\Back-End\Senai_WishList\Senai_WishList\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\Banco de Dados\wishlist\Back-End\Senai_WishList\Senai_WishList\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\Banco de Dados\wishlist\Back-End\Senai_WishList\Senai_WishList\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\Banco de Dados\wishlist\Back-End\Senai_WishList\Senai_WishList\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\Banco de Dados\wishlist\Back-End\Senai_WishList\Senai_WishList\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\Banco de Dados\wishlist\Back-End\Senai_WishList\Senai_WishList\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\Banco de Dados\wishlist\Back-End\Senai_WishList\Senai_WishList\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\Banco de Dados\wishlist\Back-End\Senai_WishList\Senai_WishList\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\Banco de Dados\wishlist\Back-End\Senai_WishList\Senai_WishList\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\Banco de Dados\wishlist\Back-End\Senai_WishList\Senai_WishList\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\Banco de Dados\wishlist\Back-End\Senai_WishList\Senai_WishList\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\Banco de Dados\wishlist\Back-End\Senai_WishList\Senai_WishList\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\Banco de Dados\wishlist\Back-End\Senai_WishList\Senai_WishList\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\Banco de Dados\wishlist\Back-End\Senai_WishList\Senai_WishList\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\Banco de Dados\wishlist\Back-End\Senai_WishList\Senai_WishList\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\Banco de Dados\wishlist\Back-End\Senai_WishList\Senai_WishList\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\Banco de Dados\wishlist\Back-End\Senai_WishList\Senai_WishList\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\Banco de Dados\wishlist\Back-End\Senai_WishList\Senai_WishList\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\Banco de Dados\wishlist\Back-End\Senai_WishList\Senai_WishList\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\pedro\OneDrive\Área de Trabalho\Banco de Dados\wishlist\Back-End\Senai_WishList\Senai_WishList\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\Banco de Dados\wishlist\Back-End\Senai_WishList\Senai_WishList\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\pedro\OneDrive\Área de Trabalho\Banco de Dados\wishlist\Back-End\Senai_WishList\Senai_WishList\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\Banco de Dados\wishlist\Back-End\Senai_WishList\Senai_WishList\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\pedro\OneDrive\Área de Trabalho\Banco de Dados\wishlist\Back-End\Senai_WishList\Senai_WishList\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\Banco de Dados\wishlist\Back-End\Senai_WishList\Senai_WishList\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\pedro\OneDrive\Área de Trabalho\Banco de Dados\wishlist\Back-End\Senai_WishList\Senai_WishList\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\Banco de Dados\wishlist\Back-End\Senai_WishList\Senai_WishList\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\Banco de Dados\wishlist\Back-End\Senai_WishList\Senai_WishList\obj\Debug\net5.0\Senai_WishList.csprojAssemblyReference.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\Banco de Dados\wishlist\Back-End\Senai_WishList\Senai_WishList\obj\Debug\net5.0\Senai_WishList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro\OneDrive\Área de Trabalho\Banco de Dados\wishlist\Back-End\Senai_WishList\Senai_WishList\obj\Debug\net5.0\Senai_WishList.AssemblyInfoInputs.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\Banco de Dados\wishlist\Back-End\Senai_WishList\Senai_WishList\obj\Debug\net5.0\Senai_WishList.AssemblyInfo.cs
+C:\Users\pedro\OneDrive\Área de Trabalho\Banco de Dados\wishlist\Back-End\Senai_WishList\Senai_WishList\obj\Debug\net5.0\Senai_WishList.csproj.CoreCompileInputs.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\Banco de Dados\wishlist\Back-End\Senai_WishList\Senai_WishList\obj\Debug\net5.0\Senai_WishList.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\Banco de Dados\wishlist\Back-End\Senai_WishList\Senai_WishList\obj\Debug\net5.0\staticwebassets\Senai_WishList.StaticWebAssets.Manifest.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\Banco de Dados\wishlist\Back-End\Senai_WishList\Senai_WishList\obj\Debug\net5.0\staticwebassets\Senai_WishList.StaticWebAssets.xml
+C:\Users\pedro\OneDrive\Área de Trabalho\Banco de Dados\wishlist\Back-End\Senai_WishList\Senai_WishList\obj\Debug\net5.0\scopedcss\bundle\Senai_WishList.styles.css
+C:\Users\pedro\OneDrive\Área de Trabalho\Banco de Dados\wishlist\Back-End\Senai_WishList\Senai_WishList\obj\Debug\net5.0\Senai_WishList.RazorTargetAssemblyInfo.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\Banco de Dados\wishlist\Back-End\Senai_WishList\Senai_WishList\obj\Debug\net5.0\Senai_WishList.csproj.CopyComplete
+C:\Users\pedro\OneDrive\Área de Trabalho\Banco de Dados\wishlist\Back-End\Senai_WishList\Senai_WishList\obj\Debug\net5.0\Senai_WishList.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\Banco de Dados\wishlist\Back-End\Senai_WishList\Senai_WishList\obj\Debug\net5.0\ref\Senai_WishList.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\Banco de Dados\wishlist\Back-End\Senai_WishList\Senai_WishList\obj\Debug\net5.0\Senai_WishList.pdb
+C:\Users\pedro\OneDrive\Área de Trabalho\Banco de Dados\wishlist\Back-End\Senai_WishList\Senai_WishList\obj\Debug\net5.0\Senai_WishList.genruntimeconfig.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\Banco de Dados\wishlist\Back-End\Senai_WishList\Senai_WishList\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\Banco de Dados\wishlist\Back-End\Senai_WishList\Senai_WishList\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\Banco de Dados\wishlist\Back-End\Senai_WishList\Senai_WishList\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Users\vinixiii\Desktop\wishlist\back-end\Senai_WishList\Senai_WishList\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\vinixiii\Desktop\wishlist\back-end\Senai_WishList\Senai_WishList\bin\Debug\net5.0\appsettings.json
+C:\Users\vinixiii\Desktop\wishlist\back-end\Senai_WishList\Senai_WishList\bin\Debug\net5.0\Senai_WishList.exe
+C:\Users\vinixiii\Desktop\wishlist\back-end\Senai_WishList\Senai_WishList\bin\Debug\net5.0\Senai_WishList.deps.json
+C:\Users\vinixiii\Desktop\wishlist\back-end\Senai_WishList\Senai_WishList\bin\Debug\net5.0\Senai_WishList.runtimeconfig.json
+C:\Users\vinixiii\Desktop\wishlist\back-end\Senai_WishList\Senai_WishList\bin\Debug\net5.0\Senai_WishList.runtimeconfig.dev.json
+C:\Users\vinixiii\Desktop\wishlist\back-end\Senai_WishList\Senai_WishList\bin\Debug\net5.0\Senai_WishList.dll
+C:\Users\vinixiii\Desktop\wishlist\back-end\Senai_WishList\Senai_WishList\bin\Debug\net5.0\ref\Senai_WishList.dll
+C:\Users\vinixiii\Desktop\wishlist\back-end\Senai_WishList\Senai_WishList\bin\Debug\net5.0\Senai_WishList.pdb
+C:\Users\vinixiii\Desktop\wishlist\back-end\Senai_WishList\Senai_WishList\bin\Debug\net5.0\Humanizer.dll
+C:\Users\vinixiii\Desktop\wishlist\back-end\Senai_WishList\Senai_WishList\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\vinixiii\Desktop\wishlist\back-end\Senai_WishList\Senai_WishList\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\vinixiii\Desktop\wishlist\back-end\Senai_WishList\Senai_WishList\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\vinixiii\Desktop\wishlist\back-end\Senai_WishList\Senai_WishList\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\vinixiii\Desktop\wishlist\back-end\Senai_WishList\Senai_WishList\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\vinixiii\Desktop\wishlist\back-end\Senai_WishList\Senai_WishList\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\vinixiii\Desktop\wishlist\back-end\Senai_WishList\Senai_WishList\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\vinixiii\Desktop\wishlist\back-end\Senai_WishList\Senai_WishList\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\vinixiii\Desktop\wishlist\back-end\Senai_WishList\Senai_WishList\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\vinixiii\Desktop\wishlist\back-end\Senai_WishList\Senai_WishList\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+C:\Users\vinixiii\Desktop\wishlist\back-end\Senai_WishList\Senai_WishList\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\vinixiii\Desktop\wishlist\back-end\Senai_WishList\Senai_WishList\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\vinixiii\Desktop\wishlist\back-end\Senai_WishList\Senai_WishList\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\vinixiii\Desktop\wishlist\back-end\Senai_WishList\Senai_WishList\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\vinixiii\Desktop\wishlist\back-end\Senai_WishList\Senai_WishList\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\vinixiii\Desktop\wishlist\back-end\Senai_WishList\Senai_WishList\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\vinixiii\Desktop\wishlist\back-end\Senai_WishList\Senai_WishList\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\vinixiii\Desktop\wishlist\back-end\Senai_WishList\Senai_WishList\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\vinixiii\Desktop\wishlist\back-end\Senai_WishList\Senai_WishList\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Users\vinixiii\Desktop\wishlist\back-end\Senai_WishList\Senai_WishList\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\vinixiii\Desktop\wishlist\back-end\Senai_WishList\Senai_WishList\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\vinixiii\Desktop\wishlist\back-end\Senai_WishList\Senai_WishList\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\vinixiii\Desktop\wishlist\back-end\Senai_WishList\Senai_WishList\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\vinixiii\Desktop\wishlist\back-end\Senai_WishList\Senai_WishList\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\vinixiii\Desktop\wishlist\back-end\Senai_WishList\Senai_WishList\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\vinixiii\Desktop\wishlist\back-end\Senai_WishList\Senai_WishList\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\vinixiii\Desktop\wishlist\back-end\Senai_WishList\Senai_WishList\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\vinixiii\Desktop\wishlist\back-end\Senai_WishList\Senai_WishList\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\vinixiii\Desktop\wishlist\back-end\Senai_WishList\Senai_WishList\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\vinixiii\Desktop\wishlist\back-end\Senai_WishList\Senai_WishList\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\vinixiii\Desktop\wishlist\back-end\Senai_WishList\Senai_WishList\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\vinixiii\Desktop\wishlist\back-end\Senai_WishList\Senai_WishList\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\vinixiii\Desktop\wishlist\back-end\Senai_WishList\Senai_WishList\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\vinixiii\Desktop\wishlist\back-end\Senai_WishList\Senai_WishList\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\vinixiii\Desktop\wishlist\back-end\Senai_WishList\Senai_WishList\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\vinixiii\Desktop\wishlist\back-end\Senai_WishList\Senai_WishList\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\vinixiii\Desktop\wishlist\back-end\Senai_WishList\Senai_WishList\obj\Debug\net5.0\Senai_WishList.csprojAssemblyReference.cache
+C:\Users\vinixiii\Desktop\wishlist\back-end\Senai_WishList\Senai_WishList\obj\Debug\net5.0\Senai_WishList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinixiii\Desktop\wishlist\back-end\Senai_WishList\Senai_WishList\obj\Debug\net5.0\Senai_WishList.AssemblyInfoInputs.cache
+C:\Users\vinixiii\Desktop\wishlist\back-end\Senai_WishList\Senai_WishList\obj\Debug\net5.0\Senai_WishList.AssemblyInfo.cs
+C:\Users\vinixiii\Desktop\wishlist\back-end\Senai_WishList\Senai_WishList\obj\Debug\net5.0\Senai_WishList.csproj.CoreCompileInputs.cache
+C:\Users\vinixiii\Desktop\wishlist\back-end\Senai_WishList\Senai_WishList\obj\Debug\net5.0\Senai_WishList.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\vinixiii\Desktop\wishlist\back-end\Senai_WishList\Senai_WishList\obj\Debug\net5.0\staticwebassets\Senai_WishList.StaticWebAssets.Manifest.cache
+C:\Users\vinixiii\Desktop\wishlist\back-end\Senai_WishList\Senai_WishList\obj\Debug\net5.0\staticwebassets\Senai_WishList.StaticWebAssets.xml
+C:\Users\vinixiii\Desktop\wishlist\back-end\Senai_WishList\Senai_WishList\obj\Debug\net5.0\scopedcss\bundle\Senai_WishList.styles.css
+C:\Users\vinixiii\Desktop\wishlist\back-end\Senai_WishList\Senai_WishList\obj\Debug\net5.0\Senai_WishList.RazorTargetAssemblyInfo.cache
+C:\Users\vinixiii\Desktop\wishlist\back-end\Senai_WishList\Senai_WishList\obj\Debug\net5.0\Senai_WishList.csproj.CopyComplete
+C:\Users\vinixiii\Desktop\wishlist\back-end\Senai_WishList\Senai_WishList\obj\Debug\net5.0\Senai_WishList.dll
+C:\Users\vinixiii\Desktop\wishlist\back-end\Senai_WishList\Senai_WishList\obj\Debug\net5.0\ref\Senai_WishList.dll
+C:\Users\vinixiii\Desktop\wishlist\back-end\Senai_WishList\Senai_WishList\obj\Debug\net5.0\Senai_WishList.pdb
+C:\Users\vinixiii\Desktop\wishlist\back-end\Senai_WishList\Senai_WishList\obj\Debug\net5.0\Senai_WishList.genruntimeconfig.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\Banco de Dados\WishList\Back-End\Senai_WishList\Senai_WishList\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\Banco de Dados\WishList\Back-End\Senai_WishList\Senai_WishList\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\Banco de Dados\WishList\Back-End\Senai_WishList\Senai_WishList\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\Banco de Dados\WishList\Back-End\Senai_WishList\Senai_WishList\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\Banco de Dados\WishList\Back-End\Senai_WishList\Senai_WishList\obj\Debug\net5.0\Senai_WishList.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\pedro\OneDrive\Área de Trabalho\Banco de Dados\WishList\Back-End\Senai_WishList\Senai_WishList\bin\Debug\net5.0\Senai_WishList.xml
+C:\Users\pedro\OneDrive\Área de Trabalho\Banco de Dados\WishList\Back-End\Senai_WishList\Senai_WishList\obj\Debug\net5.0\Senai_WishList.xml
+C:\Users\vinixiii\Desktop\teste\WishList\Back-End\Senai_WishList\Senai_WishList\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\vinixiii\Desktop\teste\WishList\Back-End\Senai_WishList\Senai_WishList\bin\Debug\net5.0\appsettings.json
+C:\Users\vinixiii\Desktop\teste\WishList\Back-End\Senai_WishList\Senai_WishList\bin\Debug\net5.0\Senai_WishList.exe
+C:\Users\vinixiii\Desktop\teste\WishList\Back-End\Senai_WishList\Senai_WishList\bin\Debug\net5.0\Senai_WishList.deps.json
+C:\Users\vinixiii\Desktop\teste\WishList\Back-End\Senai_WishList\Senai_WishList\bin\Debug\net5.0\Senai_WishList.runtimeconfig.json
+C:\Users\vinixiii\Desktop\teste\WishList\Back-End\Senai_WishList\Senai_WishList\bin\Debug\net5.0\Senai_WishList.runtimeconfig.dev.json
+C:\Users\vinixiii\Desktop\teste\WishList\Back-End\Senai_WishList\Senai_WishList\bin\Debug\net5.0\Senai_WishList.dll
+C:\Users\vinixiii\Desktop\teste\WishList\Back-End\Senai_WishList\Senai_WishList\bin\Debug\net5.0\ref\Senai_WishList.dll
+C:\Users\vinixiii\Desktop\teste\WishList\Back-End\Senai_WishList\Senai_WishList\bin\Debug\net5.0\Senai_WishList.pdb
+C:\Users\vinixiii\Desktop\teste\WishList\Back-End\Senai_WishList\Senai_WishList\bin\Debug\net5.0\Senai_WishList.xml
+C:\Users\vinixiii\Desktop\teste\WishList\Back-End\Senai_WishList\Senai_WishList\bin\Debug\net5.0\Humanizer.dll
+C:\Users\vinixiii\Desktop\teste\WishList\Back-End\Senai_WishList\Senai_WishList\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\vinixiii\Desktop\teste\WishList\Back-End\Senai_WishList\Senai_WishList\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\vinixiii\Desktop\teste\WishList\Back-End\Senai_WishList\Senai_WishList\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\vinixiii\Desktop\teste\WishList\Back-End\Senai_WishList\Senai_WishList\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\vinixiii\Desktop\teste\WishList\Back-End\Senai_WishList\Senai_WishList\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\vinixiii\Desktop\teste\WishList\Back-End\Senai_WishList\Senai_WishList\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\vinixiii\Desktop\teste\WishList\Back-End\Senai_WishList\Senai_WishList\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\vinixiii\Desktop\teste\WishList\Back-End\Senai_WishList\Senai_WishList\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\vinixiii\Desktop\teste\WishList\Back-End\Senai_WishList\Senai_WishList\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\vinixiii\Desktop\teste\WishList\Back-End\Senai_WishList\Senai_WishList\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+C:\Users\vinixiii\Desktop\teste\WishList\Back-End\Senai_WishList\Senai_WishList\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\vinixiii\Desktop\teste\WishList\Back-End\Senai_WishList\Senai_WishList\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\vinixiii\Desktop\teste\WishList\Back-End\Senai_WishList\Senai_WishList\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\vinixiii\Desktop\teste\WishList\Back-End\Senai_WishList\Senai_WishList\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\vinixiii\Desktop\teste\WishList\Back-End\Senai_WishList\Senai_WishList\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\vinixiii\Desktop\teste\WishList\Back-End\Senai_WishList\Senai_WishList\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\vinixiii\Desktop\teste\WishList\Back-End\Senai_WishList\Senai_WishList\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\vinixiii\Desktop\teste\WishList\Back-End\Senai_WishList\Senai_WishList\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\vinixiii\Desktop\teste\WishList\Back-End\Senai_WishList\Senai_WishList\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\vinixiii\Desktop\teste\WishList\Back-End\Senai_WishList\Senai_WishList\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Users\vinixiii\Desktop\teste\WishList\Back-End\Senai_WishList\Senai_WishList\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\vinixiii\Desktop\teste\WishList\Back-End\Senai_WishList\Senai_WishList\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\vinixiii\Desktop\teste\WishList\Back-End\Senai_WishList\Senai_WishList\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\vinixiii\Desktop\teste\WishList\Back-End\Senai_WishList\Senai_WishList\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\vinixiii\Desktop\teste\WishList\Back-End\Senai_WishList\Senai_WishList\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\vinixiii\Desktop\teste\WishList\Back-End\Senai_WishList\Senai_WishList\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\vinixiii\Desktop\teste\WishList\Back-End\Senai_WishList\Senai_WishList\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\vinixiii\Desktop\teste\WishList\Back-End\Senai_WishList\Senai_WishList\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\vinixiii\Desktop\teste\WishList\Back-End\Senai_WishList\Senai_WishList\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\vinixiii\Desktop\teste\WishList\Back-End\Senai_WishList\Senai_WishList\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\vinixiii\Desktop\teste\WishList\Back-End\Senai_WishList\Senai_WishList\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\vinixiii\Desktop\teste\WishList\Back-End\Senai_WishList\Senai_WishList\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\vinixiii\Desktop\teste\WishList\Back-End\Senai_WishList\Senai_WishList\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\vinixiii\Desktop\teste\WishList\Back-End\Senai_WishList\Senai_WishList\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\vinixiii\Desktop\teste\WishList\Back-End\Senai_WishList\Senai_WishList\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\vinixiii\Desktop\teste\WishList\Back-End\Senai_WishList\Senai_WishList\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\vinixiii\Desktop\teste\WishList\Back-End\Senai_WishList\Senai_WishList\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\vinixiii\Desktop\teste\WishList\Back-End\Senai_WishList\Senai_WishList\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\vinixiii\Desktop\teste\WishList\Back-End\Senai_WishList\Senai_WishList\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\vinixiii\Desktop\teste\WishList\Back-End\Senai_WishList\Senai_WishList\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\vinixiii\Desktop\teste\WishList\Back-End\Senai_WishList\Senai_WishList\obj\Debug\net5.0\Senai_WishList.csprojAssemblyReference.cache
+C:\Users\vinixiii\Desktop\teste\WishList\Back-End\Senai_WishList\Senai_WishList\obj\Debug\net5.0\Senai_WishList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinixiii\Desktop\teste\WishList\Back-End\Senai_WishList\Senai_WishList\obj\Debug\net5.0\Senai_WishList.AssemblyInfoInputs.cache
+C:\Users\vinixiii\Desktop\teste\WishList\Back-End\Senai_WishList\Senai_WishList\obj\Debug\net5.0\Senai_WishList.AssemblyInfo.cs
+C:\Users\vinixiii\Desktop\teste\WishList\Back-End\Senai_WishList\Senai_WishList\obj\Debug\net5.0\Senai_WishList.csproj.CoreCompileInputs.cache
+C:\Users\vinixiii\Desktop\teste\WishList\Back-End\Senai_WishList\Senai_WishList\obj\Debug\net5.0\Senai_WishList.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\vinixiii\Desktop\teste\WishList\Back-End\Senai_WishList\Senai_WishList\obj\Debug\net5.0\Senai_WishList.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\vinixiii\Desktop\teste\WishList\Back-End\Senai_WishList\Senai_WishList\obj\Debug\net5.0\staticwebassets\Senai_WishList.StaticWebAssets.Manifest.cache
+C:\Users\vinixiii\Desktop\teste\WishList\Back-End\Senai_WishList\Senai_WishList\obj\Debug\net5.0\staticwebassets\Senai_WishList.StaticWebAssets.xml
+C:\Users\vinixiii\Desktop\teste\WishList\Back-End\Senai_WishList\Senai_WishList\obj\Debug\net5.0\scopedcss\bundle\Senai_WishList.styles.css
+C:\Users\vinixiii\Desktop\teste\WishList\Back-End\Senai_WishList\Senai_WishList\obj\Debug\net5.0\Senai_WishList.RazorTargetAssemblyInfo.cache
+C:\Users\vinixiii\Desktop\teste\WishList\Back-End\Senai_WishList\Senai_WishList\obj\Debug\net5.0\Senai_WishList.csproj.CopyComplete
+C:\Users\vinixiii\Desktop\teste\WishList\Back-End\Senai_WishList\Senai_WishList\obj\Debug\net5.0\Senai_WishList.dll
+C:\Users\vinixiii\Desktop\teste\WishList\Back-End\Senai_WishList\Senai_WishList\obj\Debug\net5.0\ref\Senai_WishList.dll
+C:\Users\vinixiii\Desktop\teste\WishList\Back-End\Senai_WishList\Senai_WishList\obj\Debug\net5.0\Senai_WishList.xml
+C:\Users\vinixiii\Desktop\teste\WishList\Back-End\Senai_WishList\Senai_WishList\obj\Debug\net5.0\Senai_WishList.pdb
+C:\Users\vinixiii\Desktop\teste\WishList\Back-End\Senai_WishList\Senai_WishList\obj\Debug\net5.0\Senai_WishList.genruntimeconfig.cache
